@@ -27,6 +27,7 @@ public class Main {
         printCollection(treeSet);
 
         String s1= "dewrdw";
+        String s2 = "dewrdw";
 
 
 
