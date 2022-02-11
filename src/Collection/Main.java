@@ -26,8 +26,6 @@ public class Main {
         System.out.println("\nTreeSet");
         printCollection(treeSet);
 
-        String s1= "dewrdw";
-        String s2 = "dewrdw";
 
 
 
