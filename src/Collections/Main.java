@@ -10,7 +10,7 @@ public class Main {
         list.add("ABC");
         list.add("DEF");
         list.add("HJU");
-        list.add("dsds");
+
 
 
 
